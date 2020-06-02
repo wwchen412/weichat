@@ -14,11 +14,11 @@ function Header() {
           {auth().currentUser
             ? <div className="navbar-nav">
               <Link className="nav-item nav-link mr-3" to="/chat">Profile</Link>
-              <button className="btn btn-primary mr-3 mt-0" onClick={() => auth().signOut()}>Logout</button>
+              <button className="btn btn-primary mt-0" onClick={() => auth().signOut()}>Logout</button>
             </div>
             : <div className="navbar-nav">
               <Link className="nav-item nav-link mr-3" to="/login">Sign In</Link>
-              <Link className="nav-item nav-link mr-3" to="/signup">Sign Up</Link>
+              <Link className="nav-item nav-link" to="/signup">Sign Up</Link>
             </div>}
         </div>
       </nav>

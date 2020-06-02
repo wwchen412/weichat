@@ -8,6 +8,12 @@ body {
 nav{
   height: 60px;
 }
+#navbarNavAltMarkup{
+  background: #fff;
+  margin: 0 -1rem;
+  padding: 1rem;
+}
+
 .bg-primary{
   background:linear-gradient(to right bottom, rgba(116, 235, 213, 1), rgba(159, 172, 230, 1) );
 }

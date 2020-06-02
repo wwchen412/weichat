@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "788f7d3f7827691e66a0c5a06d44b06a",
+    "revision": "91015628d69e92c4042b8f02b4d079d7",
     "url": "/weichat/index.html"
   },
   {

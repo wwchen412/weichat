@@ -55,7 +55,7 @@ const App = () =>{
   },[])
   return (
     loading === true ? <h2>Loading...</h2> : 
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Switch>
         <Route exact path='/' component={Home}></Route>
         <PrivateRoute path="/chat" authenticated={authenticated} component={Chat}></PrivateRoute>

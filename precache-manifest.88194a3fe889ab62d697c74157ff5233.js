@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c81bf8459642d8d97d15da55462d3a96",
+    "revision": "c9b170be4807333e8c73221465f464cc",
     "url": "/weichat/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weichat/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "79d986e5675296bd8995",
+    "revision": "e91301859c587dd4e240",
     "url": "/weichat/static/css/main.0eb256fe.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weichat/static/js/2.0263ff75.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "79d986e5675296bd8995",
-    "url": "/weichat/static/js/main.0a964de4.chunk.js"
+    "revision": "e91301859c587dd4e240",
+    "url": "/weichat/static/js/main.fa2f72f0.chunk.js"
   },
   {
     "revision": "aac5496e7bc32e9067a6",

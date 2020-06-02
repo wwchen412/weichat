@@ -9,9 +9,13 @@ nav{
   height: 60px;
 }
 #navbarNavAltMarkup{
-  background: #fff;
   margin: 0 -1rem;
   padding: 1rem;
+}
+@media screen and (max-width:575px){
+  #navbarNavAltMarkup{
+    background: #fff;
+  }
 }
 
 .bg-primary{

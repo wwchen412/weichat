@@ -26,7 +26,7 @@ const Login = ()=> {
     }
     return(
         <div style={{'height':'100vh'}} className="bg-primary d-flex align-items-center h-full justify-content-center">
-            <form   style={{'max-width':'495px','background':'#fff'}} 
+            <form   style={{'maxWidth':'495px','background':'#fff'}} 
                     className="rounded p-3 w-100"
                     autoComplete="off"
                     onSubmit={(evt)=> handleSubmit(evt)}> 

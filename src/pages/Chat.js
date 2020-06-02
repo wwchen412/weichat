@@ -6,6 +6,7 @@ import { auth, db } from '../services/firebase'
 
 const Chat = ()=>{
     const ref = useRef(null);
+    let typeInput;
     const [state, setState] = useState({
         user: auth().currentUser,
         chats: [],
@@ -14,7 +15,7 @@ const Chat = ()=>{
         writeError: null
     })
     useEffect(()=>{
-        typeInput.focus();
+        
         (async function chatFunction() {
             setState((prestate)=>{
                 return{...prestate,readError: null}
@@ -38,7 +39,9 @@ const Chat = ()=>{
         })();
         
     },[])
-    
+    useEffect(()=>{
+        typeInput.focus();
+    })
     useLayoutEffect(()=>{
         ref.current.scrollTop = ref.current.scrollHeight;
     })
@@ -74,8 +77,7 @@ const Chat = ()=>{
         return time;
     }
 
-    let typeInput;
-    let chatSpace;
+    
     return(
         <div>
             <Header></Header>

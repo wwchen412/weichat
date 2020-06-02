@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/weichat/static/css/main.009bfef3.chunk.css",
+    "main.css": "/weichat/static/css/main.600739da.chunk.css",
     "main.js": "/weichat/static/js/main.f47b7d1e.chunk.js",
     "main.js.map": "/weichat/static/js/main.f47b7d1e.chunk.js.map",
     "runtime-main.js": "/weichat/static/js/runtime-main.23dbef59.js",
@@ -9,18 +9,18 @@
     "static/js/2.8f492bd6.chunk.js": "/weichat/static/js/2.8f492bd6.chunk.js",
     "static/js/2.8f492bd6.chunk.js.map": "/weichat/static/js/2.8f492bd6.chunk.js.map",
     "index.html": "/weichat/index.html",
-    "precache-manifest.899b80800e74440557927703d884af2b.js": "/weichat/precache-manifest.899b80800e74440557927703d884af2b.js",
+    "precache-manifest.486ee355e4642b8a21edd26b446b5418.js": "/weichat/precache-manifest.486ee355e4642b8a21edd26b446b5418.js",
     "service-worker.js": "/weichat/service-worker.js",
     "static/css/2.db6f3515.chunk.css.map": "/weichat/static/css/2.db6f3515.chunk.css.map",
-    "static/css/main.009bfef3.chunk.css.map": "/weichat/static/css/main.009bfef3.chunk.css.map",
+    "static/css/main.600739da.chunk.css.map": "/weichat/static/css/main.600739da.chunk.css.map",
     "static/js/2.8f492bd6.chunk.js.LICENSE.txt": "/weichat/static/js/2.8f492bd6.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/weichat/static/media/index.e17cd51c.jpg"
+    "static/media/index.css": "/weichat/static/media/index.64e88b6d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.23dbef59.js",
     "static/css/2.db6f3515.chunk.css",
     "static/js/2.8f492bd6.chunk.js",
-    "static/css/main.009bfef3.chunk.css",
+    "static/css/main.600739da.chunk.css",
     "static/js/main.f47b7d1e.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f885a85ccc1b1e61d4e6fef8592af0e",
+    "revision": "788f7d3f7827691e66a0c5a06d44b06a",
     "url": "/weichat/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weichat/static/css/2.db6f3515.chunk.css"
   },
   {
-    "revision": "7e0b8384836a7b18e38c",
-    "url": "/weichat/static/css/main.009bfef3.chunk.css"
+    "revision": "6398d752c3968c4b63cd",
+    "url": "/weichat/static/css/main.600739da.chunk.css"
   },
   {
     "revision": "58844b096cac4d626fd3",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weichat/static/js/2.8f492bd6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7e0b8384836a7b18e38c",
+    "revision": "6398d752c3968c4b63cd",
     "url": "/weichat/static/js/main.f47b7d1e.chunk.js"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weichat/static/js/runtime-main.23dbef59.js"
   },
   {
-    "revision": "e17cd51cad01c3c5e8cdcdd4c7c38ceb",
-    "url": "/weichat/static/media/index.e17cd51c.jpg"
+    "revision": "64e88b6da23f52b653423ebf04c8f200",
+    "url": "/weichat/static/media/index.64e88b6d.jpg"
   }
 ]);
